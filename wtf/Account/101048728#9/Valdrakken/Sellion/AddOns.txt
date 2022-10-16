@@ -1,0 +1,12 @@
+BigWigs_Core: enabled
+BigWigs_Options: enabled
+BigWigs_Plugins: enabled
+Bartender4: disabled
+WeakAurasCompanion: enabled
+WeakAurasArchive: enabled
+AddSlashEMKB: disabled
+BigWigs: disabled
+Details_EncounterDetails: disabled
+Details: disabled
+Plater: enabled
+DejaCharacterStats: disabled

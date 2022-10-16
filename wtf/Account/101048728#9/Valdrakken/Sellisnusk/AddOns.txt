@@ -1,0 +1,7 @@
+BigWigs_Core: enabled
+BigWigs_Options: enabled
+BigWigs_Plugins: enabled
+WeakAurasCompanion: enabled
+WeakAurasArchive: enabled
+Bartender4: disabled
+BigWigs_VaultOfTheIncarnates: enabled

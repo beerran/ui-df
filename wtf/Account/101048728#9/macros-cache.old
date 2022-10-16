@@ -1,0 +1,18 @@
+VER 3 0000000000000002 " " "134131"
+/wa
+END
+VER 3 0000000000000003 " " "134400"
+#showtooltip
+/cast [@cursor] Sigil of Flame
+END
+VER 3 0000000000000004 " " "134400"
+#showtooltip
+/cast [@cursor] Sigil of Silence
+END
+VER 3 0000000000000005 " " "134400"
+#showtooltip
+/cast [@cursor] Infernal Strike
+END
+VER 3 0000000000000001 " " "1397652"
+/focus [@mouseover,harm,nodead] [harm]
+END
