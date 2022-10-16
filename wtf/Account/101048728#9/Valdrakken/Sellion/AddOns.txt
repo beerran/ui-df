@@ -4,9 +4,9 @@ BigWigs_Plugins: enabled
 Bartender4: disabled
 WeakAurasCompanion: enabled
 WeakAurasArchive: enabled
-AddSlashEMKB: disabled
-BigWigs: disabled
+AddSlashEMKB: enabled
+BigWigs: enabled
 Details_EncounterDetails: disabled
-Details: disabled
+Details: enabled
 Plater: enabled
 DejaCharacterStats: disabled
